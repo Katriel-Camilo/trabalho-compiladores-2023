@@ -69,7 +69,7 @@ def analisar_html(conteudo_html):
             if pilha_de_tags:
                 pilha_de_tags[-1]["inner_html"].append(conteudo_interno.strip())
 
-print("======================")
+print("=========================================")
 print("\033[33mAnálise do Código HTML:\033[0m")
 print("=========================================")
 analisar_html(html_content)
