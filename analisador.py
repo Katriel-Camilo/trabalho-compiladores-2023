@@ -1,3 +1,5 @@
+\\ Trabalho -  reconhecedor HTML 
+\\Unipinhal 2023
 import re
 from termcolor import colored
 
